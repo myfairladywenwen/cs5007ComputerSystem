@@ -1,3 +1,2 @@
-# cs5007ComputerSystem
-
-hw and project for cs5007: movie search engine
+# wenxie_CS5006
+CS5006 repo for Spr2020; Northeastern Seattle.

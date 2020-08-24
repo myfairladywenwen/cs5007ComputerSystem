@@ -1,0 +1,20 @@
+// Wen Xie  Apr 16
+# Linker Lab
+
+See Canvas for details.
+
+# Submission
+
+Modify this readme with the following information. Copy this info to the Canvas submission. Commit and push to Github.
+
+* Commit your hack.c file.
+* Put the following in your README.md file: 
+   * Name(s): Wen Xie
+   * How many hours did it take you to complete this lab? 1hour
+   * Did you collaborate with any other students/TAs/Professors? Linni Cai
+   * Did you use any external resources? (Cite them below)
+      * google a lot
+   * How does breaking code into libraries like this save compile time? 
+   * How does the linker find the code needed for our executable? Does all of the code live together in one executable? 
+   * (Optional) What was your favorite part of the assignment?
+   * (Optional) How would you improve the assignment?
